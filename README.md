@@ -13,7 +13,7 @@ How to Run:</br>
 -> Create a database in postgreSQL named questiondb</br>
 	with username:postgres</br>
 	with password:0000</br>
--> now import the 3 files (postman-commands-microservice not needed)   tinto sts and run service-registry first as spring-boot starter app</br>
+-> now import the 3 files (postman-commands-microservice not needed) into sts and run service-registry first as spring-boot starter app</br>
 -> next run the rest both as spring-boot starter apps
 
 -> open postman-commands-microservice folder and import both the files into postman
