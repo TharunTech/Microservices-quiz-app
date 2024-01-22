@@ -10,7 +10,7 @@ Postman-API</br>
 tomcat server 9+ in sts</br>
 
 How to Run:</br>
--> Create a database in postgreSQL named</br>
+-> Create a database in postgreSQL named questiondb</br>
 	with username:postgres</br>
 	with password:0000</br>
 -> now import the 3 files into sts and run service-registry first as spring-boot starter app</br>
